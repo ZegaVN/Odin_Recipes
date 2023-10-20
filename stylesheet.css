@@ -1,3 +1,18 @@
-div {
+h1{
     font-style: italic;
+    font-weight: bold;
+    font-size: 100px;
+}
+
+
+
+
+div {
+    background-color: darkgoldenrod;
+    text-align: center;
+    width: 800px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
